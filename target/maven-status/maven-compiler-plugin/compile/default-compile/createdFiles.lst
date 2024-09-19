@@ -1,0 +1,8 @@
+Vista\BibliotecaVista.class
+Modelo\Seccion.class
+Modelo\Libro.class
+Controlador\BibliotecaControlador.class
+Modelo\Autor.class
+Main\Main.class
+Modelo\Estanteria.class
+Modelo\Biblioteca.class
